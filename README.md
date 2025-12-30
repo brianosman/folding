@@ -1,5 +1,5 @@
 ---
-Title: Folded Board Game Organizers
+title: Folded Board Game Organizers
 ---
 
 ## Videos
