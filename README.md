@@ -8,7 +8,7 @@ Many board games benefit from improved or upgraded storage of components. Popula
 The videos are really the first stop for learning what you're doing. Everything I'm putting here is supplemental tips, and recommendations about supplies. You will also learn that some aspects are more art than science - even with precise measurements, the folding process always introduces some slight variation. Learning to anticipate how certain types of boxes react to different papers, and which dimensions will inflate slightly is gained with experience. In general: Leave some slack, don't try to be **too** exact at the beginning. Also, you can always remake something that doesn't work out perfectly! (But if you bought some special paper, consider doing a practice box with something disposable).
 
 ## What Do I Need?
-First, there are some essential tools:
+First, there are some essential tools. (Note: None of the links below are endorsements of Amazon, and certainly aren't affiliate/referral links. They're just a way to show you the product I'm talking about).
 
 - Paper
 
@@ -19,7 +19,7 @@ First, there are some essential tools:
     I use a simple cutter like [this one](https://a.co/d/gRy07fQ), but any similar paper trimmer/cutter will work. The [big kind](https://a.co/d/ghL0g1q) with a long blade should work fine, too. (Bonus: You're all set if there's a Jon Stewart alien invasion).
 
 - Pencil for marking mesured lengths, drawing fold lines, etc.
-- Ruler with **millimeters**. In theory you can use imperial units, but most of the fold designs involve doing math to determine paper size or where to fold. Do you want to compute $(3\frac{7}{8}+1\frac{11}{16})/\sqrt{2}$?
+- Ruler with **millimeters**. In theory you can use imperial units, but most of the fold designs involve doing math to determine paper size or where to fold. Do you want to compute (3 7/8 + 1 11/16) * sqrt(2)?
 
 - Calculator to do that math I just mentioned. (Of course, this can be your phone).
 - Scissors to make extra cuts in some cases. Certain designs can be done without any cuts, but some dividers require a few snips. The most commonly useful box design tends to work better with some cuts, as well. (The relevant video explains this).
